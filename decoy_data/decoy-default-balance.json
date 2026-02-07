@@ -1,10 +1,10 @@
 {
-    "family_name": "XL PASS",
-    "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-    "is_enterprise": true,
-    "migration_type": "NONE",
-    "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-    "option_name": "XL PASS 1 days",
-    "order": 4,
-    "price": 0
+    "family_name": "PRIO PASS",
+    "family_code": "2512b72a-a3cd-4c70-a736-132cf2c1f0c0",
+    "is_enterprise": null,
+    "migration_type": null,
+    "variant_code": "cff298bd-8ec8-4696-b689-12407d36be15",
+    "option_name": "PRIO PASS",
+    "order": 2,
+    "price": 0
 }
